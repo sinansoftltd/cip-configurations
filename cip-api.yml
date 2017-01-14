@@ -1,5 +1,8 @@
 message: HelloWorld
 
+## Liquibase
+liquibase:
+  enabled: false
 
 spring:
   datasource:
