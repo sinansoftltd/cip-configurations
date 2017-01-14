@@ -1,6 +1,7 @@
 ## Liquibase
 liquibase:
-  enabled: false
+  enabled: true
+  change-log: classpath:cip-main-migrations.xml
 
 spring:
   datasource:
