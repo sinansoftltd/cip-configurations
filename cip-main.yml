@@ -1,0 +1,9 @@
+## Liquibase
+liquibase:
+  enabled: false
+
+spring:
+  datasource:
+    username: root
+    password:
+    url: jdbc:mysql://127.0.0.1:3306/univoip_cip_main
