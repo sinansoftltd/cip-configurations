@@ -1,0 +1,4 @@
+# disable security for all micorservices
+security:
+  basic:
+    enabled: false
